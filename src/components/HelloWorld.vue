@@ -6,6 +6,7 @@ defineProps<{
 
 <template>
   <div class="greetings">
+  <h3>Getting the hang of Azure </h3>
     <h1 class="green">{{ msg }}</h1>
     <h3>
       You’ve successfully created a project with
